@@ -1,0 +1,10 @@
+Exit 0 = GOOD EXIT
+Exit 1 = TITLE FILE FAIL
+Exit 2 = MENU FILE FAIL
+Exit 3 = OPTIONS FILE FAIL
+Exit 4 = FILE FAIL (Using Utility Function)
+Exit 5 = OPTIONS INIT FAIL
+Exit 6 = OPTIONS RECORD ON EXIT FAIL(check settingsCurrent.txt for missing text)
+Exit 7 = Invalid Player Number
+Exit 8 = HOW TO PLAY FAIL
+Exit 9 = bad dice roll val in animation printRoll

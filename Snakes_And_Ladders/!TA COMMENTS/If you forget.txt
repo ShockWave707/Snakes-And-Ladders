@@ -1,0 +1,4 @@
+make
+make run
+
+(make compiles the code, make run runs the code) (Works on linux with a g++ compiler)

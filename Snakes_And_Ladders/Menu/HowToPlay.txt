@@ -1,0 +1,32 @@
+   ______     _     __   __                            __ 
+  / ____/____(_)___/ /  / /   ____ ___  ______  __  __/ /_
+ / / __/ ___/ / __  /  / /   / __ `/ / / / __ \/ / / / __/
+/ /_/ / /  / / /_/ /  / /___/ /_/ / /_/ / /_/ / /_/ / /_  
+\____/_/  /_/\__,_/  /_____/\__,_/\__, /\____/\__,_/\__/  
+ _ _ _                           /____/                   
+|##@@@@|  ## is the position on the board
+|!!$$$$|  @@@@ are the 4 possible player positions (each player has their own symbol)
+|_ _ _ |  $$$$ are the 4 possible bot positions (each bot has their own symbol)
+          !! is where the Snakes/Ladders are represented (Uppercase is the start and lowercase is the end)
+             The numbers represent the pairs (snakes cannot be paired with ladders and vice versa)     
+   ______            __
+  / ____/___  ____ _/ /
+ / / __/ __ \/ __ `/ / 
+/ /_/ / /_/ / /_/ / /  
+\____/\____/\__,_/_/                          
+Be the first to reach the end! Take turns rolling the die and move the resulting amount of spaces forward. If you land on
+a snake head (capital S in the left bottom corner) you will be moved down to the matching end (lower case s with the same number).
+Ladders work the same except their pair will move you up. Landing on a spot with a lowercase letter will not move you anywhere.
+   ____        __  _                 
+  / __ \____  / /_(_)___  ____  _____
+ / / / / __ \/ __/ / __ \/ __ \/ ___/
+/ /_/ / /_/ / /_/ / /_/ / / / (__  ) 
+\____/ .___/\__/_/\____/_/ /_/____/  
+    /_/                       
+Seed -> Changes the seed used for randomizing the die rolls
+Reset -> Resets the settings to default       
+  ____                                 _              _                          _   _
+ |  _ \ _ __ ___  ___ ___    ___ _ __ | |_ ___ _ __  | |_ ___     ___ ___  _ __ | |_(_)_ __  _   _  ___       
+ | |_) | '__/ _ \/ __/ __|  / _ \ '_ \| __/ _ \ '__| | __/ _ \   / __/ _ \| '_ \| __| | '_ \| | | |/ _ \      
+ |  __/| | |  __/\__ \__ \ |  __/ | | | ||  __/ |    | || (_) | | (_| (_) | | | | |_| | | | | |_| |  __/_ _ _ 
+ |_|   |_|  \___||___/___/  \___|_| |_|\__\___|_|     \__\___/   \___\___/|_| |_|\__|_|_| |_|\__,_|\___(_|_|_)
